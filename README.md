@@ -1,6 +1,8 @@
 # Impresiones 3D vs Covid-19
 Investigación personal sobre las Impresiones 3D para el área médica.
 
+**[Link a la Actualización al 30 de Marzo](https://github.com/FernandaOchoa/3DvsCovid-19/blob/master/Actualizaci%C3%B3n-30-03-2020.md)**
+
 Hola, quiero comenzar con que esto es meramente personal, sin ánimos de lucrar y con la genuina intención de ayudar.
 
 Ahora con lo del COVID-19, está increíble que todos nos sumemos desde nuestras áreas para generar un aporte, de pronto todos nos sentimos útiles y neta hay propuestas que van más allá del prototipo y logran ser implementados en estos momentos de contingencia.
