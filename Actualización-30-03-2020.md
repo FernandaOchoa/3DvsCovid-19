@@ -2,6 +2,8 @@
 
 Hola, el día de hoy quiero compartirles un poco más del proyecto, sus avances, los aliados y por supuesto las donaciones que hemos recibido.
 
+Si no sabes nada del proyecto, aquí el [primer post](https://github.com/FernandaOchoa/3DvsCovid-19/blob/master/README.md)
+
 El principal inconveniente con la impresión 3D, es el uso prolongado y su exposición al virus. Debido a la porosidad de la técnica de impresión y del filamento.  
 
 <img src="https://user-images.githubusercontent.com/9124597/77972781-94d43580-72af-11ea-996a-29bd21a51d54.png" alt="Características de Biomateriales" title="Características de Biomateriales" width="50%"/><img src="https://user-images.githubusercontent.com/9124597/77973452-796a2a00-72b1-11ea-8923-db8516853850.png" alt="Características de Biomateriales" title="Características de Biomateriales" width="47.3%"/>
