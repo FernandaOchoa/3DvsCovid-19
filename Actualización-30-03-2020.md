@@ -79,22 +79,33 @@ Tal vez no sea mucho avance sin embargo creo que vamos bien y estamos trabajando
 ## Noticias
 
 * CINVESTAV Gracias a Victor Hugo Nieto
+
 Como comenté la vez pasada se requieren pruebas de superficie para garantizar que los recubrimientos funcionan, por lo que después de publicar el post pasado hemos recibido mucha ayuda respecto a este tema.
+
 También me emociona mucho saber que quién hará las pruebas será el [CINVESTAV](https://www.cinvestav.mx/) gracias a nuestro amigo Victor Hugo Nieto quien tiene convenio con ellos y bueno sabemos que sea cual sea el resultado, estará probado y tendremos un montón de formas de no hacerlo xD.
+
 En el caso de que si funcione, pues estaremos compartiendo todo para que puedan replicarlo. Aunque con la recomendación de que lo sometan a pruebas sólo para evitar desastres.
 
 * Impresora 3D Gracias a Julio César
+
 También comentaba que Dolores Hidalgo es una ciudad muy pequeña y el acceso para este tipo de tecnologías es complicado, pues César nos ha donado una impresora 3D para no tener que traer las piezas de león.
-Cabe mencionar que Cesar es también de Dolores Hidalgo y me llena de emoción saber que en Dolores la gente se quiere sumar. GRACIAS INFINITAS CESAR.
+
+Cabe mencionar que Cesar es también de Dolores Hidalgo y me llena de emoción saber que en Dolores la gente se quiere sumar. 
+
+GRACIAS INFINITAS CESAR.
 
 * Filamento PLA
+
 Vía twitter, José Enrique Sánchez se comunicó para darnos apoyo en el proyecto y nos ha donado 5 rollos de filamento PLA con la finalidad de poder imprimir más piezas si optamos por los recubrimientos.
 
 * Económico
-Bueno si bien se requiere dinero para lámparas, resinas, etc. No lo he solicitado explícitamente el recurso o cantidades por que no quiero que se mal interprete, sin embargo hay quienes han donado por este medio y creánme está siendo de mucha ayuda. MIL GRACIAS.
+
+Bueno si bien se requiere dinero para lámparas, resinas, etc. No he solicitado explícitamente el recurso ni he dado montos por que no quiero que se mal interprete, sin embargo hay quienes han donado por este medio y creánme está siendo de mucha ayuda. MIL GRACIAS.
+
 Respecto a este punto, posteriormente estaré publicando que se compró con base a los montos recibidos, que hasta el momento son $500 (Reflejados en mi cuenta). Y hago públicas las cantidades por que en cualquier plataforma de fondeo colectivo aparece el monto que llevan, etc.
 
 * Programación
+
 Lo sé, hago software pero de momento no puedo escribir mi propia landing jajaja, así que ya hubo alguien quién nos diseño una landing page para recibir donaciones, si quieren saber más al respecto en twitter aparece como @ann_araujo. GRACIAS.
 
 
