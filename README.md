@@ -43,7 +43,7 @@ El modelo que como mencioné no es el objetivo, sino que hay que hacerle modific
 
 ![IMG-20200325-WA0007](https://user-images.githubusercontent.com/9124597/77814485-2147e380-7077-11ea-9396-abb0049f3e2b.jpg)
 
-Pues después de que me llegó la máscara tuve que buscar en dónde se podía imprimir la pieza, fue un problema por que en Dolores Hidalgo, no hay una sola impresora 3D. Así que hay que traerlas de León, pero no todos los servicios son económicos por que al día de hoy 27/03/2020 hay 22 casos confirmados y 67 en investigación. Lo que dificulta la logística para distribución fuera de y en especial a Dolores Hidalgo. Se hizo una búsqueda simple en facebook y hubo buena respuesta, Omar de [Impresion 3d Mx](https://impresion3d.mx/product/i3d-mx/) nos regalo la impresión en cuanto vio que era para esta causa <3. 
+Pues después de que me llegó la máscara tuve que buscar en dónde se podía imprimir la pieza, fue un problema por que en Dolores Hidalgo, no hay una sola impresora 3D. Así que hay que traerlas de León, pero no todos los servicios son económicos por que al día de hoy 27/03/2020 hay 22 casos confirmados y 67 en investigación. Lo que dificulta la logística para distribución fuera de y en especial a Dolores Hidalgo. Se hizo una búsqueda simple en facebook y hubo buena respuesta, Omar nos regalo la impresión en cuanto vio que era para esta causa <3. 
 
 Literal tuve que pedir un uber de su casa (por que obvio todo esta cerrado) al depa de mi novio (Gracias Paco) quién tenía un viaje a San Miguel de Allende y de pasada dejo las piezas. Lo comentó por que el virus llega a todas las ciudades y aún siendo impresión 3D es muy complicado acceder a esas tecnologías en ocasiones. Karla me ayudo a conseguir filtros especiales para el prototipo, Mike me conecto con los proveedores en León y Paco me trajo todo, los filtros unos cubrebocas y las piezas impresas). Posterior a eso tuvimos que desinfectar paquetes y todo por que uno no sabe.
 
@@ -96,7 +96,6 @@ Biomédica
 * Rosalinda Guevara
 
 Impresión 3D
-* Omar Ramos (Impresion 3D MX)
 * El profe de Mike
 
 Plásticos y Polímeros
